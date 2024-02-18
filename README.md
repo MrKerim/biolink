@@ -4,7 +4,7 @@ Main goal of this repository is the follow the same procces as in this [link](ht
 ### Structure
 
 project/  
-├── index.html
-├── index.css
-└── images
+└── index.html  
+└── index.css  
+└── images  
 
